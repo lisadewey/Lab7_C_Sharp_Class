@@ -1,0 +1,9 @@
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\bin\Debug\Lab7_StarTrek_C_Sharp_Class.exe
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\bin\Debug\MyLibrary.dll
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\bin\Debug\MyLibrary.pdb
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\obj\Debug\Lab7_StarTrek_C_Sharp_Class.csprojResolveAssemblyReference.cache
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\obj\Debug\Lab7_StarTrek_C_Sharp_Class.csproj.CoreCompileInputs.cache
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\obj\Debug\Lab7_StarTrek_C_Sharp_Class.exe
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\obj\Debug\Lab7_StarTrek_C_Sharp_Class.pdb
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\bin\Debug\Lab7_StarTrek_C_Sharp_Class.exe.config
+C:\Users\lmdew\Desktop\Projects\Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class\bin\Debug\Lab7_StarTrek_C_Sharp_Class.pdb

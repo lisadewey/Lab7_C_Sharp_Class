@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_StarTrek_C_Sharp_Class", "Lab7_StarTrek_C_Sharp_Class\Lab7_StarTrek_C_Sharp_Class.csproj", "{C38A1E3B-71AE-4503-9B32-8483A0FA26AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "..\MyLibrary\MyLibrary\MyLibrary.csproj", "{1C3F8FF7-9DED-400B-8678-E13B1937F7C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38A1E3B-71AE-4503-9B32-8483A0FA26AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38A1E3B-71AE-4503-9B32-8483A0FA26AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38A1E3B-71AE-4503-9B32-8483A0FA26AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38A1E3B-71AE-4503-9B32-8483A0FA26AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3F8FF7-9DED-400B-8678-E13B1937F7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3F8FF7-9DED-400B-8678-E13B1937F7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3F8FF7-9DED-400B-8678-E13B1937F7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3F8FF7-9DED-400B-8678-E13B1937F7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84CA0F61-D574-46E4-8938-C22F2C6493E9}
+	EndGlobalSection
+EndGlobal
